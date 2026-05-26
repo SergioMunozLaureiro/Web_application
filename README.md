@@ -63,7 +63,7 @@ src/
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/wrestling-manager.git
+git clone [https://github.com/your-username/wrestling-manager.git](https://github.com/SergioMunozLaureiro/Web_application.git)
 cd wrestling-manager
 ```
 
@@ -88,4 +88,4 @@ A terminal window will open with the main menu. Use the on-screen options to nav
 ## Notes
 
 - Data is not persisted between sessions. All changes are lost when the application closes.
-- The application ships with pre-loaded data for WWE, AEW, TNA, NJPW, and AAA, including wrestlers and championships.
+- The application ships with pre-loaded data for differnt companies, including wrestlers and championships.
